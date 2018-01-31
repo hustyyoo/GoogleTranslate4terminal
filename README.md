@@ -1,8 +1,8 @@
 # GoogleTranslate4terminal
 GoogleTranslate4terminal and shell by Python
 
-#usage
+# usage
 
-'''
-  python3 main.py <your text here>
-'''
+```js
+python3 main.py <your text here>
+```
